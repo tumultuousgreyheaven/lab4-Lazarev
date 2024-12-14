@@ -1,1 +1,7 @@
-Code for model of pi^0 decay detection 
+Сгенерирован 1 миллион событий\
+Гистограммы:\
+
+![image_2024-12-14_21-08-41](https://github.com/user-attachments/assets/3f990c9c-d11a-4e42-8959-1282a05a2a55)
+Спектр в левом калориметре 0\
+
+
